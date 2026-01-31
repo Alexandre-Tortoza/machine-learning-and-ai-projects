@@ -14,4 +14,8 @@ Com ele, você pode:
 - Solicitar o que deseja comer e receber automaticamente a lista de ingredientes necessária.  
 - Definir itens recorrentes e marcar alimentos aos quais você é alérgico.  
 - Armazenar receitas para preparar mais tarde.  
-- Registrar os itens disponíveis na sua geladeira e receber sugestões de pratos que podem ser feitos com eles.  
+- Registrar os itens disponíveis na sua geladeira e receber sugestões de pratos que podem ser feitos com eles.  \
+
+---
+
+## [machine-learning-sistema-de-classificacao-de-imagens](https://github.com/Alexandre-Tortoza/machine-learning-sistema-de-classificacao-de-imagens)
