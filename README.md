@@ -19,3 +19,11 @@ Com ele, você pode:
 ---
 
 ## [machine-learning-sistema-de-classificacao-de-imagens](https://github.com/Alexandre-Tortoza/machine-learning-sistema-de-classificacao-de-imagens)
+
+---
+
+## [machine-learning-previsao-congestionamentos-sp](https://github.com/Alexandre-Tortoza/machine-learning-previsao-congestionamentos-sp)
+
+---
+
+## [artificial-intelligence-local-search-ga](https://github.com/Alexandre-Tortoza/artificial-intelligence-local-search-ga)
