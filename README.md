@@ -27,3 +27,7 @@ Com ele, você pode:
 ---
 
 ## [artificial-intelligence-local-search-ga](https://github.com/Alexandre-Tortoza/artificial-intelligence-local-search-ga)
+
+---
+
+## [machine-learning-tde-01](https://github.com/Alexandre-Tortoza/machine-learning-tde-01)
